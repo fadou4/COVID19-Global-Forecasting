@@ -1,4 +1,3 @@
-# COVID19-Global-Forecasting
 # 🦠 COVID19-Global-Forecasting
 
 A project for **statistical analysis and machine learning forecasting** of COVID-19 cases and fatalities worldwide.
